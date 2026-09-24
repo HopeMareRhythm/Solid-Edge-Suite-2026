@@ -1,0 +1,23 @@
+{
+  "repo": "solid-edge-suite-2026",
+  "product": "Solid Edge Suite 2026",
+  "kind": "cad",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "engineering-cad",
+  "topics": [
+    "solid-edge-suite",
+    "solid-windows",
+    "engineering-cad-desktop",
+    "how-to-install-solid",
+    "solid-edge-suite-desktop-package",
+    "solid-workspace",
+    "solid-2026",
+    "solid-edge-suite-pro-tools",
+    "solid-suite",
+    "zentool-solid"
+  ],
+  "site": "zentool.art"
+}
